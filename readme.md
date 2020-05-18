@@ -1,4 +1,4 @@
-# Image Processing Masks-Convolution
+# Dynamic JavaScript Game HangMan
 
 A Dynamic Game was developed in Javascript in order to learn and understand the backend logic of a web app language - Originally developed 18/11/2019
 
