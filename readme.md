@@ -1,21 +1,24 @@
 # Image Processing Masks-Convolution
 
-A Dynamic Game was developed in Javascript in order to learn and uderstand the backend logic of a webapp lanugage - Originally developed 18/11/2019
+A Dynamic Game was developed in Javascript in order to learn and understand the backend logic of a web app language - Originally developed 18/11/2019
 
 
 
 ## In this project it was developed 
-1. A function 
+Amazing experience building 
+1. The backend of the website
+2. collecting the words from a simple API
+3. Creating the logic restrictions of the game
+4. Keyboard collection of information
+5. Building the Front end of the app
 
 ## Results of the Project 
+Winning Game
+<img src="PlayingWinningGAme.gif" width="600">
+Losing Game 
 <img src="Images/PlayingLosingGame.gif" width="600">
 
-## What I learned from this Project
-
-## What was the project difficulties 
-
-## My solutions to the difficulties
-
-## Notable Features
-
 ## Technology Used 
+- JavaScript
+- CSS
+- HTML
