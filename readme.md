@@ -15,7 +15,7 @@ Amazing experience building
 ## Results of the Project 
 <img src="Images/PlayingWinningGAme.gif" width="600">
 Winning Game
-<img src="PlayingWinningGAme.gif" width="600">
+<img src="Images/PlayingLosingGame.gif" width="600">
 Losing Game 
 
 
